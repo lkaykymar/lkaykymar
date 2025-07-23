@@ -21,11 +21,14 @@
 
 ## 🌐 Redes Sociais
 
+## 🌐 Redes Sociais
+
 <div align="center">
   <a href="https://www.instagram.com/lkaykymar/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="https://www.linkedin.com/in/kayky-lourenco/" target="_blank">
+  <a href="https://www.linkedin.com/in/kayky-louren%C3%A7o-62a59022a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </div>
+
